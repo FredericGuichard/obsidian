@@ -1,11 +1,11 @@
-```
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: How to publish Obsidian notes with Quartz on GitHub Pages
 draft: false
 tags:
-  - 
+  -
 ---
-```### Guidelines
+ 
+### Guidelines
 
 - Dive buoy outside of Bellairs reefs
 - Plan to be collecting data until Tuesday

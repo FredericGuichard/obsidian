@@ -1,3 +1,10 @@
+---
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: false
+tags:
+  -
+---
+ 
 [[BIOL334_2025_moduleLecture.pptx|presentation]]
 
 ##### Schedule

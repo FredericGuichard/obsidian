@@ -1,14 +1,13 @@
-```
 ---
-title: Take Home
+title: How to publish Obsidian notes with Quartz on GitHub Pages
 draft: false
 tags:
-  - 
+  -
 ---
-```
 ### Fish ID
 
 1-Scaridae, Scarus vetula, Queen parrotfish
+ 
 
 2-Ostraciidae, Acanthostracion polygonius, Honeycomb cowfish
 
