@@ -1,0 +1,1 @@
+[Alex](obsidian://vault/obsidian/Alex)

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fec301c1d8786d0d","type":"file","file":"BEF Team Project/figures/Pasted image 20260325221837.png","x":-260,"y":-280,"width":400,"height":248},
+		{"id":"05d74a78500fb883","type":"file","file":"BEF Team Project/figures/Screenshot 2026-03-25 at 22.40.50.png","x":200,"y":-97,"width":400,"height":275},
+		{"id":"a5b3e6ee16429f66","type":"text","text":"[@costaSmallscalePatchesDetritus2021; @costaDecompositionRateInvertebrate2019]Costa, V., R. Chemello, D. Iaciofano, S. Lo Brutto, and F. Rossi. 2021. Small-scale patches of detritus as habitat for invertebrates within a _Zostera noltei_ meadow. Marine Environmental Research 171:105474.\n\nCosta, V., A. Mazzola, F. Rossi, and S. Vizzini. 2019. Decomposition rate and invertebrate colonization of seagrass detritus along a hydrodynamic gradient in a Mediterranean coastal basin: The Stagnone di Marsala (Italy) case study. Marine Ecology 40:e12570.\n\n\\autocite{costaDecompositionRateInvertebrate2019}\n\n[1]\n\n(Costa et al., 2019)\n\n\\autocite{costaDecompositionRateInvertebrate2019,costaSmallscalePatchesDetritus2021}\n\nCosta, V., A. Mazzola, F. Rossi, and S. Vizzini. 2019. Decomposition rate and invertebrate \ncolonization of seagrass detritus along a hydrodynamic gradient in a Mediterranean coastal basin: The Stagnone di Marsala (Italy) case study. Marine Ecology 40:e12570.\n\n","x":-212,"y":80,"width":412,"height":347}
+	],
+	"edges":[
+		{"id":"b1109201f2abf46b","fromNode":"a5b3e6ee16429f66","fromSide":"top","toNode":"fec301c1d8786d0d","toSide":"bottom"},
+		{"id":"e59ea26bf882f028","fromNode":"a5b3e6ee16429f66","fromSide":"top","toNode":"05d74a78500fb883","toSide":"left"}
+	]
+}
