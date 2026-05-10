@@ -1,6 +1,6 @@
 ---
 title: one will eventually work
-draft: true
+draft: false
 tags:
   -
 ---
