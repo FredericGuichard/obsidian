@@ -1,4 +1,11 @@
-
+```
+---
+title: Take Home
+draft: false
+tags:
+  - 
+---
+```
 ### Fish ID
 
 1-Scaridae, Scarus vetula, Queen parrotfish
